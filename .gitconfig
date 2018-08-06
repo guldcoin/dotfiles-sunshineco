@@ -1,0 +1,6 @@
+[user]
+	username = sunshineco
+[commit]
+	gpgsign = true
+[aliases]
+	github = sunshineco
